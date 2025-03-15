@@ -6,7 +6,7 @@ Welcome to the **Gold Jewelry Website**, a premium and elegant website designed 
 ---
 
 ## 📌 Live Demo  
-👉 **[View Demo](https://your-demo-link.com)**  
+👉 **[View Demo](https://korinikhil.github.io/jwellary/)**  
 
 ## 🌐 Company Website  
 👉 **[Optima Web Designs](https://optimawebdesigns.shop/)**  
